@@ -1,5 +1,6 @@
 - <b>Gabriel Furtado Neves</b><br>
-- <b>Engenharia de Software UTFPR</b>
+- <b>Trainee Tata Consultancy Services
+- <b>Software Engineer UTFPR</b>
 <br>
 
 
